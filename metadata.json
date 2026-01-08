@@ -1,0 +1,5 @@
+{
+  "name": "SnapEquation",
+  "description": "Capture equations from screenshots and instantly convert them to LaTeX and MathML for professional use in MS Word.",
+  "requestFramePermissions": []
+}
