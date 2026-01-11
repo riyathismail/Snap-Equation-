@@ -1,9 +1,9 @@
-const CACHE_NAME = 'snapequation-v1';
+const CACHE_NAME = 'snapequation-v2';
 const urlsToCache = [
   './',
   './index.html',
   'https://cdn.tailwindcss.com',
-  'https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css'
+  'https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css'
 ];
 
 self.addEventListener('install', (event) => {
